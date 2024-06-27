@@ -40,4 +40,4 @@ This project involves engineering a data analysis solution with time series anal
 - Sales forecasting
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the KP License.
