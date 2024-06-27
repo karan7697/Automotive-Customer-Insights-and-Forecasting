@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+prophet
+snowflake-connector-python
+sqlalchemy
+jupyter
+matplotlib
+seaborn
